@@ -24,6 +24,15 @@
       "password": "Gupta@433",
       "confirmPassword": "Gupta@433",
       "id": 2
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "phone": 9505883727,
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 2
     }
   ],
   "comments": [
